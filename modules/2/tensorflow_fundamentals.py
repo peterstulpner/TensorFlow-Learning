@@ -6,7 +6,6 @@
 
 # Introduction to Tensors:
 import tensorflow as tf
-
 scalar = tf.constant(7)
 
 # Check the dimensions of a tensor:
